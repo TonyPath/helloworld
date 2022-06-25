@@ -2,3 +2,6 @@
 .vscode/
 .idea/*
 /vendor
+
+coverage.out
+cover.html
