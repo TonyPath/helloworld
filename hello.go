@@ -1,11 +1,6 @@
 package helloworld
 
-import "fmt"
-
-func hello() {
-	fmt.Println("hello dude")
-}
-
-func hello2() {
-
+func add(a, b int) int {
+	c := a + b
+	return c
 }
