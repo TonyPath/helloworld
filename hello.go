@@ -10,7 +10,8 @@ func newLogger() (*zap.SugaredLogger, error) {
 
 func add(a, b int) int {
 
-	_, _ = newLogger()
+	log, _ := newLogger()
+	log.Info("ole")
 
 	c := a + b
 
