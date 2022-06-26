@@ -1,1 +1,1 @@
-[![codecov](https://codecov.io/gh/codecov/helloworld/branch/master/graph/badge.svg?token=427e5c7e-9721-4d65-b581-4c6ac1cd6a53)](https://codecov.io/gh/codecov/helloworld)
+[![codecov](https://codecov.io/gh/TonyPath/helloworld/branch/master/graph/badge.svg?token=VK8ID97RJ9)](https://codecov.io/gh/TonyPath/helloworld)
