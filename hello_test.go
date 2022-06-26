@@ -7,5 +7,5 @@ import (
 
 func Test_add(t *testing.T) {
 	r := add(1, 1)
-	require.Equal(t, 2, r)
+	require.Equal(t, 3, r)
 }
